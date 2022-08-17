@@ -47,8 +47,9 @@ Header
 
 /* ---- Image ---- */
 
-.image__img{
-    width: 100%;
+.image__img {
+    display: block;
+    max-width: 100%;
 }
 
 .logo, .image, .box{
