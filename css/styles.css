@@ -158,6 +158,12 @@ Descktop desing
         text-align: left;
     }
 
+    /* ---- Button ---- */
+
+    .button{
+        width: 150px;
+    }
+
     /* ---- Footer ---- */
 
     .footer__social{
